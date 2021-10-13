@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace LoginValidation
+namespace LoginValidation2
 {
     class Program
     {
